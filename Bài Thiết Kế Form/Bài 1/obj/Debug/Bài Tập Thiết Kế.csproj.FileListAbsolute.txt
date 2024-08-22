@@ -1,0 +1,12 @@
+D:\2212368_TranMinhHieu_CTK46A\Bài Thiết Kế Form\Bài 1\obj\Debug\Bài Tập Thiết Kế.csproj.AssemblyReference.cache
+D:\2212368_TranMinhHieu_CTK46A\Bài Thiết Kế Form\Bài 1\obj\Debug\Bài_1.frmBai1.resources
+D:\2212368_TranMinhHieu_CTK46A\Bài Thiết Kế Form\Bài 1\obj\Debug\Bài_1.frmChinh.resources
+D:\2212368_TranMinhHieu_CTK46A\Bài Thiết Kế Form\Bài 1\obj\Debug\Bài_1.Properties.Resources.resources
+D:\2212368_TranMinhHieu_CTK46A\Bài Thiết Kế Form\Bài 1\obj\Debug\Bài Tập Thiết Kế.csproj.GenerateResource.cache
+D:\2212368_TranMinhHieu_CTK46A\Bài Thiết Kế Form\Bài 1\obj\Debug\Bài Tập Thiết Kế.csproj.CoreCompileInputs.cache
+D:\2212368_TranMinhHieu_CTK46A\Bài Thiết Kế Form\Bài 1\bin\Debug\Bài 1.exe.config
+D:\2212368_TranMinhHieu_CTK46A\Bài Thiết Kế Form\Bài 1\bin\Debug\Bài 1.exe
+D:\2212368_TranMinhHieu_CTK46A\Bài Thiết Kế Form\Bài 1\bin\Debug\Bài 1.pdb
+D:\2212368_TranMinhHieu_CTK46A\Bài Thiết Kế Form\Bài 1\obj\Debug\Bài 1.exe
+D:\2212368_TranMinhHieu_CTK46A\Bài Thiết Kế Form\Bài 1\obj\Debug\Bài 1.pdb
+D:\2212368_TranMinhHieu_CTK46A\Bài Thiết Kế Form\Bài 1\obj\Debug\Bài_1.frmBai2.resources
